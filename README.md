@@ -1,4 +1,7 @@
-# test coverage for  [svg2png (v4.1.1)](https://github.com/domenic/svg2png#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-svg2png.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg2png) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg2png.svg)](https://travis-ci.org/npmtest/node-npmtest-svg2png)
+# npmtest-svg2png
+
+#### basic test coverage for  [svg2png (v4.1.1)](https://github.com/domenic/svg2png#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-svg2png.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg2png) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg2png.svg)](https://travis-ci.org/npmtest/node-npmtest-svg2png)
+
 #### Converts SVGs to PNGs, using PhantomJS
 
 [![NPM](https://nodei.co/npm/svg2png.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/svg2png)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-svg2png/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-svg2png/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-svg2png/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-svg2png/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-svg2png/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-svg2png/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-svg2png/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-svg2png/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-svg2png/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-svg2png/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-svg2png/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-svg2png/build/coverage.html/index.html)
 
