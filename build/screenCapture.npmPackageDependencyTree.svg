@@ -121,7 +121,7 @@
 <tspan x="10" y="1898">    │   │ ├── pify@2.3.0 </tspan>
 <tspan x="10" y="1914">    │   │ └─┬ strip-bom@2.0.0 </tspan>
 <tspan x="10" y="1930">    │   │   └── is-utf8@0.2.1 </tspan>
-<tspan x="10" y="1946">    │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1946">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1962">    │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1978">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1994">    │   │ │ └── builtin-modules@1.1.1 </tspan>
